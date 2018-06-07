@@ -1,0 +1,9 @@
+/Tests/obj
+/Tests/bin
+/Tests//packages
+/SeleniumFramework/bin
+/SeleniumFramework/obj
+/SeleniumFramework/packages
+/packages
+/bin
+.idea
